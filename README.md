@@ -1,7 +1,7 @@
 # MusicXML Tokenizer
 
 **Course:** Analysis of Symbolic Music and Ethnomusicology  
-**Dataset:** [SymbTr v3](https://github.com/MTG/SymbTr) — ~3,000 Turkish makam MusicXML files  
+**Dataset:** [SymbTr v3](https://zenodo.org/records/15470412) — ~3,000 Turkish makam MusicXML files  
 **Format:** Jupyter Notebook (`.ipynb`), runs on Google Colab
 
 ---
