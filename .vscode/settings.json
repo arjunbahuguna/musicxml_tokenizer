@@ -1,0 +1,10 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "git checkout": true,
+        "/^git add tokenizer\\.ipynb && git commit -m \"v3: efficiency & vocabulary optimization — position quantization, rare pitch merging, lyric closed vocab, KL divergence\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "git push": true
+    }
+}
